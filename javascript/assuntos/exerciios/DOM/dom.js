@@ -1,0 +1,1 @@
+let nomeTitulo = document.getElementById("titulo1").innerHTML = "Titulo 2";
